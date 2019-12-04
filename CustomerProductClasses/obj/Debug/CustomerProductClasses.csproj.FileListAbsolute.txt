@@ -1,0 +1,13 @@
+C:\Users\sever\Desktop\234N\Lab 7\CustomerProductDB\CustomerProductClasses\obj\Debug\CustomerProductClasses.csprojAssemblyReference.cache
+C:\Users\sever\Desktop\234N\Lab 7\CustomerProductDB\CustomerProductClasses\obj\Debug\CustomerProductClasses.csproj.CoreCompileInputs.cache
+C:\Users\sever\Desktop\234N\Lab 7\CustomerProductDB\CustomerProductClasses\bin\Debug\CustomerProductClasses.dll
+C:\Users\sever\Desktop\234N\Lab 7\CustomerProductDB\CustomerProductClasses\bin\Debug\CustomerProductClasses.pdb
+C:\Users\sever\Desktop\234N\Lab 7\CustomerProductDB\CustomerProductClasses\bin\Debug\CustomerProductDBClasses.dll
+C:\Users\sever\Desktop\234N\Lab 7\CustomerProductDB\CustomerProductClasses\bin\Debug\CustomerProductPropsClasses.dll
+C:\Users\sever\Desktop\234N\Lab 7\CustomerProductDB\CustomerProductClasses\bin\Debug\ToolsCSharp.dll
+C:\Users\sever\Desktop\234N\Lab 7\CustomerProductDB\CustomerProductClasses\bin\Debug\CustomerProductDBClasses.pdb
+C:\Users\sever\Desktop\234N\Lab 7\CustomerProductDB\CustomerProductClasses\bin\Debug\CustomerProductPropsClasses.pdb
+C:\Users\sever\Desktop\234N\Lab 7\CustomerProductDB\CustomerProductClasses\bin\Debug\ToolsCSharp.pdb
+C:\Users\sever\Desktop\234N\Lab 7\CustomerProductDB\CustomerProductClasses\obj\Debug\CustomerProductClasses.csproj.CopyComplete
+C:\Users\sever\Desktop\234N\Lab 7\CustomerProductDB\CustomerProductClasses\obj\Debug\CustomerProductClasses.dll
+C:\Users\sever\Desktop\234N\Lab 7\CustomerProductDB\CustomerProductClasses\obj\Debug\CustomerProductClasses.pdb
